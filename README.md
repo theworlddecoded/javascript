@@ -1,4 +1,4 @@
-## GO TO WIKI TO SEE THEM ALL
+## CLICK AND GO TO WIKI
 https://github.com/theworlddecoded/javascript/wiki
 
 ____
